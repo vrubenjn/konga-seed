@@ -1,0 +1,11 @@
+module.exports = [
+        {
+            "username": "admin",
+            "email": "$KONGA_DEFAULT_EMAIL",
+            "firstName": "Admin",
+            "lastName": "Administrator",
+            "admin": true,
+            "active": true,
+            "password": "$KONGA_DEFAULT_PASSWORD"
+        }
+    ]

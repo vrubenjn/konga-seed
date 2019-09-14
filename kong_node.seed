@@ -1,0 +1,8 @@
+module.exports = [
+    {
+        "name": "API",
+        "type": "default",
+        "kong_admin_url": "$KONGA_DEFAULT_KONG_NODE",
+        "health_checks": false
+    }
+]
